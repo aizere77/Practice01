@@ -10,3 +10,5 @@ x = {"name" : "Aizere", "age" : 17} #dict
 x = {"a", "b", "c"} #set
 x = True #bool
 x = b"Hello" #bytes
+x = frozenset({"a", "b", "c"})
+x = bytearray(5)
